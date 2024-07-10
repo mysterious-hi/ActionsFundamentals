@@ -1,8 +1,8 @@
 # GitHub Actions Fundamentals
 
 # Test changes to trigger action
-- My change
-
+- second change
+  
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
